@@ -885,7 +885,7 @@ input:focus+.hint {
     }
 }
 
-@media(max-width:375px) {
+@media(max-width:425px) {
     .promo_content {
         padding-top: 25px;
     }
